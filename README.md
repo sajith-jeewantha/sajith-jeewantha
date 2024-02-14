@@ -13,7 +13,7 @@ I'm full stack Software Engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajith-jeewantha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoorajSNBlaze333&theme=dark#gh-dark-mode-only)](https://github.com/SoorajSNBlaze333/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajith-jeewantha&theme=dark#gh-dark-mode-only)](https://github.com/sajith-jeewantha/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
