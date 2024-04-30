@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm full stack Software Engineer
+Hi there, I'm Sajith Jeewantha
 
 
 ## 🌐 Socials:
