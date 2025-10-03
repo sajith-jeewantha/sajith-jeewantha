@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Full Stack Software Engineer, I have a specific interest in coding, doing research and development. I consider myself a technology enthusiast who likes developing new solutions. I work mainly with the Java programming language and I like to develop new applications - whether they are for the web, mobile or desktop. I am ready to engage in projects where I can work with emerging technologies and stimulate new innovative developments in the industry
+🌱 As a Full Stack Software Engineer, I have a specific interest in coding, doing research and development. I consider myself a technology enthusiast who likes developing new solutions. I work mainly with the Java programming language and I like to develop new applications - whether they are for the web, mobile or desktop. I am ready to engage in projects where I can work with emerging technologies and stimulate new innovative developments in the industry 
 
 
 ## 🌐 Socials:
